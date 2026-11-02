@@ -32,3 +32,4 @@ Copy `.env.example` to `.env.local`, fill in a Supabase project URL and anon key
 
 See `docs/architecture/stack-and-release.md` and `docs/product/implementation-audit.md` for architecture, privacy boundaries, and remaining integration work.
 # menya
+# menya
