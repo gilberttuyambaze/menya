@@ -31,3 +31,4 @@ The supplied Physics Mission Control workbook was inspected and its daily XP, st
 Copy `.env.example` to `.env.local`, fill in a Supabase project URL and anon key, and apply migrations using the Supabase CLI. Restart Vite after changing environment values. Never put a service-role key in a browser environment variable.
 
 See `docs/architecture/stack-and-release.md` and `docs/product/implementation-audit.md` for architecture, privacy boundaries, and remaining integration work.
+# menya
